@@ -1,5 +1,5 @@
 <?php
-
+echo  "2332";
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
